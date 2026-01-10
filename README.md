@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (Fatec Ribeirão Preto) e estou em busca de uma oportunidade de estágio com foco em desenvolvimento de software e bancos de dados.
 
-<!--
-**gustavo-narvaez-dev/gustavo-narvaez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HABILIDADES TÉCNICAS
+- Lógica de programação com Python
+- Bancos de dados relacionais com Microsoft SQL Server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SOFT SKILLS
+- Comunicação assertiva
+- Trabalho em equipe
+- Proatividade
+- Organização
+- Facilidade em aprender novas tecnologias
