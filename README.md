@@ -1,11 +1,11 @@
-# Olá! Me chamo [Gustavo Narvaez] 👋
+# Olá! Me chamo Gustavo Narvaez 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades em desenvolvimento de software e gerenciamento de banco de dados.
 
 ## 🎓 Educação
 
 *   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-    *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.fatecrp.edu.br)
+    *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.fatecrp.edu.br](https://www.cps.sp.gov.br/fatecs/fatec-ribeirao-preto/))
     *   Previsão de Conclusão: [dezembro/2027]
 
 ## 💻 Habilidades Técnicas
