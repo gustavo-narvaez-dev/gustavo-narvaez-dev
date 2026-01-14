@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Sou apaixona
 
 *   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
     *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.cps.sp.gov.br/fatecs/fatec-ribeirao-preto/)
-    *   Previsão de Conclusão: [dezembro/2027]
+    *   Previsão de Conclusão: DEZEMBRO/2027
 
 ## 💻 Habilidades Técnicas
 
@@ -31,8 +31,8 @@ Tenho experiência prática com SQL Server, incluindo:
 ## 🌱 Estudos Atuais
 
 No momento, estou focado em expandir meu conhecimento em 2 cursos:
-- [Estrutura de Dados], através do curso **"[Estrutura de Dados em Linguagem C]"** na [Udemy]((https://www.udemy.com/course/linguagem-c-estruturas-de-dados)).
-- [Desenvolvimento Web], através do curso **"[Desenvolvimento Web Completo - 20 cursos + 20 projetos]"** na [Udemy](https://www.udemy.com/course/web-completo).
+- [Estrutura de Dados em Linguagem C](https://www.udemy.com/course/linguagem-c-estruturas-de-dados) na Udemy.
+- [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo) na Udemy.
 
 ## 📫 Conecte-se Comigo
 
