@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Sou apaixona
 ## 🎓 Educação
 
 *   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-    *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.fatecrp.edu.br](https://www.cps.sp.gov.br/fatecs/fatec-ribeirao-preto/))
+    *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.cps.sp.gov.br/fatecs/fatec-ribeirao-preto/)
     *   Previsão de Conclusão: [dezembro/2027]
 
 ## 💻 Habilidades Técnicas
@@ -35,4 +35,4 @@ No momento, estou focado em expandir meu conhecimento em 2 cursos:
 
 ## 📫 Conecte-se Comigo
 
-[![E-mail](img.shields.io)](mailto:gustavonarvaez550@gmail.com)
+Através do meu E-mail: gustavonarvaez550@gmail.com ou pelo link [E-mail](gustavonarvaez550@gmail.com)
