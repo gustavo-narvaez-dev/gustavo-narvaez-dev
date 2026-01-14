@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades em desenvolvimento de software e gerenciamento de banco de dados.
 
-## 🎓 Educação
+## 🎓 Formação
 
 *   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
     *   [FATEC - Faculdade de Tecnologia de Ribeirão Preto](https://www.cps.sp.gov.br/fatecs/fatec-ribeirao-preto/)
@@ -17,6 +17,7 @@ Aprendi e aplico conceitos fundamentais para a resolução de problemas e criaç
 *   Estruturas de controle (condicionais, laços de repetição)
 *   Variáveis e tipos de dados
 *   Vetores e Matrizes
+*   Funções para organização do código
 
 ### Banco de Dados SQL Server
 Tenho experiência prática com SQL Server, incluindo:
@@ -35,4 +36,4 @@ No momento, estou focado em expandir meu conhecimento em 2 cursos:
 
 ## 📫 Conecte-se Comigo
 
-Através do meu E-mail: gustavonarvaez550@gmail.com ou pelo link [E-mail](gustavonarvaez550@gmail.com)
+Através do meu E-mail: gustavonarvaez550@gmail.com
