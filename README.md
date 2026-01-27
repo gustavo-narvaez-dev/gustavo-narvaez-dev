@@ -30,9 +30,9 @@ Tenho experiência prática com SQL Server, incluindo:
 
 ## 🌱 Estudos Atuais
 
-No momento, estou focado em expandir meu conhecimento em 2 cursos, na plataforma [Udemy](https://www.udemy.com):
-- [Estrutura de Dados em Linguagem C](https://www.udemy.com/course/linguagem-c-estruturas-de-dados)
-- [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo)
+No momento, estou focado em expandir meu conhecimento em 2 cursos:
+- [Estrutura de Dados em Linguagem C (Udemy)](https://www.udemy.com/course/linguagem-c-estruturas-de-dados)
+- [Python - Canal Curso em Video (Youtube)](https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=13)
 
 ## 📫 Conecte-se Comigo
 
