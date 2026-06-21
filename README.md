@@ -30,10 +30,11 @@ Tenho experiência prática com SQL Server, incluindo:
 
 ## 🌱 Estudos Atuais
 
-No momento, estou focado em expandir meu conhecimento em 2 cursos:
-- [Estrutura de Dados em Linguagem C (Udemy)](https://www.udemy.com/course/linguagem-c-estruturas-de-dados)
+No momento, estou focado em expandir meu conhecimento em:
+- [Programação Orientada a Objetos com Java]
 - [Python - Canal Curso em Video (Youtube)](https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=13)
 
 ## 📫 Conecte-se Comigo
 
 Através do meu E-mail: gustavonarvaez550@gmail.com
+Ou linkedin: www.linkedin.com/in/gustavo-narvaez-dev
